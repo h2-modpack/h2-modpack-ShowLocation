@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-ShowLocation"
+name = "ShowLocation"
 versionNumber = "1.0.0"
 description = "Always displays the current location in the UI."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-ShowLocation"
