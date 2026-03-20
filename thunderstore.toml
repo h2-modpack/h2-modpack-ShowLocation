@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "ShowLocation"
 versionNumber = "1.0.0"
 description = "Always displays the current location in the UI."
-websiteUrl = "https://github.com/maybe-adamant/h2-modpack-ShowLocation"
+websiteUrl = "https://github.com/h2-modpack/h2-modpack-ShowLocation"
 containsNsfwContent = false
 
 [package.dependencies]
