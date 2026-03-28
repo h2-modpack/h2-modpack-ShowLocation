@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Always displays the current location in the UI.",
     default  = true,
     dataMutation = false,
-    modpack = "h2-modpack",
+    modpack = "speedrun",
 }
 
 -- =============================================================================
